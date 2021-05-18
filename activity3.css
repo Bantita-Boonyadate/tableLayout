@@ -1,0 +1,17 @@
+table,
+th,
+td {
+    border: 3px solid red;
+}
+table {
+    width: 50%;
+}
+th {
+    height: 50px;
+}
+.table_style {
+    height: 70px;
+}
+td {
+    height: 50px;
+}
